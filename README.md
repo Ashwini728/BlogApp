@@ -1,10 +1,10 @@
-# 🌐 BlogApp
+#  BlogApp
 
 A simple full-stack blog application built with **Node.js**, **Express**, **MongoDB**, and **React.js**. This project allows users to view travel-related blog posts fetched from a MongoDB database.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fetch and display all blogs from MongoDB
 - Display blog image, title, and description on the homepage
@@ -14,7 +14,7 @@ A simple full-stack blog application built with **Node.js**, **Express**, **Mong
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** React, Axios  
 **Backend:** Node.js, Express.js, Mongoose  
@@ -22,5 +22,4 @@ A simple full-stack blog application built with **Node.js**, **Express**, **Mong
 
 ---
 
-## 📁 Project Structure
 
